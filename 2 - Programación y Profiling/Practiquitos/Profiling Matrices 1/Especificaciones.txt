@@ -1,0 +1,18 @@
+El programa tiene como objetivo sumar dos matrices generadas aleatoriamente. Los
+valores aleatorios se encuentran en el rango [-2000, 2000] (incluyendo los
+extremos) y deben ser datos flotantes con 7 dígitos de precision.
+
+Cuando el usuario ejecuta el programa debe indicar la cantidad de filas y
+columnas que desea que tengan las matrices.
+
+El programa asigna la cantidad de memoria necesaria, crea las matrices, les carga
+los datos aleatorios y realiza la suma elemento a elemento. Finalmente, libera la
+memoria utilizada.
+
+Deben subir el archivo corregido y un reporte de lo observado y los archivos utilizados para realizar las pruebas.
+
+Verificar que el programa sea correcto:
+ - Hace lo que se pide numericamente,
+ - No posee codigo muerto,
+ - Llama a las funciones solo las veces que es necesario,
+ - Es eficiente en cuanto a tiempo de ejecucion.
